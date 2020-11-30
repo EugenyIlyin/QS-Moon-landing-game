@@ -1,5 +1,6 @@
 # QS-Moon-landing-game
 Qlik Sense Game App - Moon landing. Demonstration of working with variables
+
 Игровое приложение на Qlik Sense. Демонстрация работы с переменными и объектами Qlik Sense версий выше QS Feb 2020.
 ***
 
