@@ -15,6 +15,6 @@ Qlik Sense Game App - Moon landing. Demonstration of working with variables
 
 Удачи!
 
-![Пример](https://github.com/EugenyIlyin/QS-Moon-landing-game/blob/main/ML0.png)
+![Пример](https://github.com/EugenyIlyin/QS-Moon-landing-game/blob/main/image/ML0.png)
 
-![Пример](https://github.com/EugenyIlyin/QS-Moon-landing-game/blob/main/ML1.png)
+![Пример](https://github.com/EugenyIlyin/QS-Moon-landing-game/blob/main/image/ML1.png)
